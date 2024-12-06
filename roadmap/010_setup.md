@@ -18,7 +18,11 @@ Establish the foundational structure and documentation for the AI player project
 - [x] **Organize Directory Structure**:
   - Set up directories for different aspects of the project, such as `/roadmap`, `/docs`, and `/src` (for source code).
 
-- [ ] **Set Up Collaboration Tools**:
+- [ ] **Document Architecture**:
+  - Create a detailed `architecture.md` file under `/roadmap` or `/docs`.
+  - Include high-level components, data flow, and the orchestrator workflow.
+
+- [ ] **Set Up Collaboration Tools** (Optional for now):
   - If multiple collaborators are involved, define communication channels (e.g., GitHub Issues, Slack).
   - Establish coding standards or guidelines if necessary.
 
